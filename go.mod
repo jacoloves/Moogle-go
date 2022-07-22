@@ -1,3 +1,3 @@
-module displayDot
+module mog-go
 
 go 1.16
